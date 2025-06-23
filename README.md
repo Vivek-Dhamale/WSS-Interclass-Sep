@@ -1,8 +1,8 @@
-# Inter-class Separability Loss for Weakly Supervised Mutually Exclusive Multiclass Segmentation of Brain Tumor Lesions [MICCAI 2025]
+# Inter-class separability loss for weakly supervised mutually exclusive multiclass segmentation of brain tumor lesions [MICCAI 2025]
 
 This repository contains the official PyTorch implementation for our MICCAI 2025 paper:
 
-> **Inter-class Separability Loss for Weakly Supervised Mutually Exclusive Multiclass Segmentation of Brain Tumor Lesions**  
+> **Inter-class separability loss for weakly supervised mutually exclusive multiclass segmentation of brain tumor lesions**  
 > Vivek Dhamale, Vaanathi Sundaresan
 
 ## 📁 Dataset
